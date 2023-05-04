@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+Welcome to my adventure game !
+You are living in lyrkeia since you were a kid
+and one day...
+A god named Volibear took the rain in his hand and locked it in a jar.
+He then left a message telling to the old man that YOU must challenge the mountain
+and free the rain or your entire village will no longer have rain. For ever.
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+To play this game you will need to use commands to move.
+For exemple if you want to go in a direction you will need to write go [direction]
+if you want to attack say : attack [MonsterName] or answer for an enigma : answer [solution]
+have fun !
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------

@@ -1,0 +1,57 @@
+take sword
+
+go north
+
+go north
+
+take key
+
+go level1
+
+go enigmaroom1
+
+answer nothing
+
+go level2
+
+go enigmaroom2
+
+answer shadow
+
+go level3
+
+go fightingroom2
+
+attack Aatrox
+
+attack Aatrox
+
+attack Aatrox
+
+go level3
+
+go enigmaroom3
+
+answer time
+
+go fightingroom3
+
+attack Hecarim
+
+attack Hecarim
+
+attack Hecarim
+
+go rewardobjectroom
+
+take superCheese
+
+eat superCheese
+
+go finalRoom
+
+attack Volibear
+
+attack Volibear
+
+attack Volibear

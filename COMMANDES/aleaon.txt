@@ -1,0 +1,19 @@
+look
+
+player
+
+eat
+
+take
+
+drop
+
+take sword
+
+help 
+
+go north
+
+go somewhere
+
+quit game

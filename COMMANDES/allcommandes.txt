@@ -1,0 +1,93 @@
+look
+
+player
+
+take
+
+drop
+
+help
+
+take sword
+
+go north
+
+back
+
+go north
+
+take beamer
+
+charge
+
+go north
+
+take key
+
+items
+
+go level1
+
+fire
+
+go north
+
+go level1
+
+go enigmaroom1
+
+answer nothing
+
+go level2
+
+go enigmaroom2
+
+answer shadow
+
+go level3
+
+go fightingroom2
+
+attack Aatrox
+
+attack Aatrox
+
+attack Aatrox
+
+go level3
+
+go teleportation
+
+go enigmaroom2
+
+answer shadow
+
+go fightingroom2
+
+go level3
+
+go enigmaroom3
+
+answer time
+
+go fightingroom3
+
+attack Hecarim
+
+attack Hecarim
+
+attack Hecarim
+
+go rewardobjectroom
+
+take superCheese
+
+eat superCheese
+
+go finalRoom
+
+attack Volibear
+
+attack Volibear
+
+attack Volibear

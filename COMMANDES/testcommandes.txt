@@ -1,0 +1,65 @@
+look
+
+player
+
+eat
+
+take
+
+drop
+
+take sword
+
+help 
+
+go north
+
+go north
+
+take key
+
+go level1
+
+go fightingroom1
+
+back
+
+go enigmaroom1
+
+go haut
+
+go fightingroom2
+
+back
+
+go enigmaroom2
+
+go haut
+
+go level2
+
+go fightingroom2
+
+go haut
+
+go teleportation
+
+go fightingRoom2
+
+attack Aatrox
+
+go haut
+
+go fightingroom3
+
+go enigmaroom3
+
+go RewardObjectRoom
+
+take SuperCheese
+
+items
+
+eat SuperCheese
+
+go FinalRoom

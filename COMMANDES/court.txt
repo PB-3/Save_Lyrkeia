@@ -1,0 +1,29 @@
+go
+
+help
+
+look
+
+go north
+
+back
+
+take
+
+take sword
+
+drop
+
+drop sword
+
+go north
+
+back
+
+alea FinalStage
+
+go north 
+
+go transportroom
+
+go somewhere
